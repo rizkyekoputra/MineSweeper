@@ -1,0 +1,6 @@
+c:\users\e460\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+c:\users\e460\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+c:\users\e460\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+c:\users\e460\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+c:\users\e460\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+c:\users\e460\documents\visual studio 2015\Projects\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
